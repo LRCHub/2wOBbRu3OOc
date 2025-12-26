@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "Save Me, Save You",
+  "base_artist": "宇宙少女",
+  "createdAt": "2025-12-26T15:04:29.522222Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Save Me, Save You",
+      "artist": "WJSN",
+      "has_synced": true,
+      "path": "select/01_Save_Me,_Save_You_WJSN.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Save Me, Save You",
+      "artist": "WJSN",
+      "has_synced": true,
+      "path": "select/02_Save_Me,_Save_You_WJSN.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Save Me, Save You",
+      "artist": "우주소녀",
+      "has_synced": true,
+      "path": "select/03_Save_Me,_Save_You_우주소녀.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "부탁해 (Save Me, Save You)",
+      "artist": "WJSN",
+      "has_synced": true,
+      "path": "select/04_부탁해_(Save_Me,_Save_You)_WJSN.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Save Me, Save You(부탁해)",
+      "artist": "WJSN(우주소녀)",
+      "has_synced": true,
+      "path": "select/05_Save_Me,_Save_You(부탁해)_WJSN(우주소녀).lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Save Me, Save You(부탁해)",
+      "artist": "WJSN(우주소녀)",
+      "has_synced": true,
+      "path": "select/06_Save_Me,_Save_You(부탁해)_WJSN(우주소녀).lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "SAVE ME / SAVE YOU",
+      "artist": "Paledusk",
+      "has_synced": false,
+      "path": "select/07_SAVE_ME___SAVE_YOU_Paledusk.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Save Me, Save You (부탁해)",
+      "artist": "우주소녀 (WJSN)",
+      "has_synced": true,
+      "path": "select/08_Save_Me,_Save_You_(부탁해)_우주소녀_(WJSN).lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Save Me Save You",
+      "artist": "Lukas Will",
+      "has_synced": false,
+      "path": "select/09_Save_Me_Save_You_Lukas_Will.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Save Me, Save You",
+      "artist": "WJSN",
+      "has_synced": false,
+      "path": "select/pl_01_Save_Me,_Save_You_WJSN.txt"
+    }
+  ]
+}
